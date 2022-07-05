@@ -1,8 +1,8 @@
 # Gabriela Sá Teles
 
-##Assistant Director of Web Services
-###University of Missouri-Kansas City
-###Aug 2019 - Present
+## Assistant Director of Web Services
+### University of Missouri-Kansas City
+### Aug 2019 - Present
 
 Manage a web team through a series of migrations and projects.
 Implemented a ticketing system to provide better customer service.
